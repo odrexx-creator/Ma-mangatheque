@@ -1,0 +1,5 @@
+{
+  "name": "My Mangathèque",
+  "description": "Une application ludique et colorée pour gérer sa collection de mangas, suivre les tomes possédés et générer des rapports pour sa famille.",
+  "requestFramePermissions": []
+}
